@@ -1,0 +1,38 @@
+/* Header Design */
+.header {
+    background: linear-gradient(90deg, #004aad, #002f6c);
+    padding: 40px 0;
+    color: white;
+}
+
+/* Profile Picture */
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border: 4px solid white;
+    object-fit: cover;
+}
+
+/* General Styling */
+h1, h3 {
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+/* Sections */
+.container {
+    margin-top: 20px;
+}
+
+/* Adjust spacing for better readability */
+ul {
+    padding-left: 20px;
+}
+
+h4 {
+    margin-top: 15px;
+}
