@@ -4,7 +4,7 @@ This is a **personal biodata website** built using **HTML, CSS, and Bootstrap**.
 
 ## 🌍 Live Website
 You can view the deployed website here:  
-[https://YOUR-GITHUB-USERNAME.github.io/biodata-website/](https://YOUR-GITHUB-USERNAME.github.io/biodata-website/)
+[(https://rohithabarukula.github.io/Biodata/)]
 
 ## 📌 Features
 - **Responsive Design** using Bootstrap.
